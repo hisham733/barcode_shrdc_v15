@@ -126,7 +126,7 @@ app_license = "MIT"
 # }
 
 # fixtures
-fixtures = ['Print Format','Report', 'Role Profile', 'Role', 'Custom Field', 'Custom Script', 'Property Setter', 'Workflow', 'Workflow State', 'Workflow Action']
+fixtures = ['Print Format','Report', 'Role Profile', 'Role', 'Custom Field', 'Client Script', 'Property Setter', 'Workflow', 'Workflow State', 'Workflow Action']
 
 # javascript
 # doctype_js = {
